@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../FPGA_Harman_Gates/25_02_27/25_02_27.srcs/sources_1/new"
+		},
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"led_timer": "c"
+		}
+	}
+}
